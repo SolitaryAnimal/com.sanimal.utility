@@ -1,0 +1,10 @@
+{
+    "name": "com.sanimal.utility",
+    "version": "0.1.0",
+    "displayName": "SA's Utility Lab",
+    "author": {
+        "name": "SolitaryAnimal",
+        "url": "https://github.com/SolitaryAnimal"
+    },
+    "license": "GPL-3.0-only"
+}
